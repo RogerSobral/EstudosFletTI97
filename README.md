@@ -1,2 +1,3 @@
 # EstudosFletTI97
- Nestes repositorio vamos estudar a lib Flet.
+Repositório destinado ao controle de aulas ministradas para a turma do Senac TI97.
+Estudos de Flet.
